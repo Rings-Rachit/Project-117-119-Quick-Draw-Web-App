@@ -17,7 +17,7 @@ function setup()
 {
  createCanvas(280,280);
  canvas.center();
- canvas.background = "white";
+ background("white");
 }
 check_sketch()
 {
